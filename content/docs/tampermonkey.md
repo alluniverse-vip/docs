@@ -14,11 +14,11 @@ Chrome浏览器安装教程：[Chrome，不一样的浏览器](/docs/chrome/)
 ## 插件安装
 从官网或浏览器商店下载Tampermonkey插件，安装即可；
 <br />
+官网：[https://www.tampermonkey.net/](https://www.tampermonkey.net/)
+<br />
 安装教程见上[Chrome，不一样的浏览器#离线安装](/docs/chrome/#离线安装)
 
 ## 脚本安装
-官网：[https://www.tampermonkey.net/](https://www.tampermonkey.net/)
-<br />
 用户脚本：[https://www.tampermonkey.net/scripts.php](https://www.tampermonkey.net/scripts.php)
 <br />
 推荐地址：[https://greasyfork.org/](https://greasyfork.org/)
